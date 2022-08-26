@@ -1,2 +1,2 @@
 # rewe-group-branding
-Defines the Branding for REWE Group Projects
+Defines the Branding for our Group Projects
